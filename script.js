@@ -25,7 +25,7 @@ const music_list = [
     img: "TERNYATAABU-ABU.jpg",
     name: "Ternyata Abu Abu",
     artist: "Dj Qhelfin",
-    music: "TERNYATAABUABU.mp3",
+    music: "TernyataAbuAbu.mp3",
   },
   {
     img: "jiwayangbersedih.jpg",
